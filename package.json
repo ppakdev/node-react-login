@@ -1,0 +1,12 @@
+{
+  "name": "zo-frontend-201708",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
