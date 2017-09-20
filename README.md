@@ -23,3 +23,7 @@ yarn && yarn start
 cd client
 yarn && yarn start
 ```
+
+> Login 
+ - u: test@test.com
+ - p: password32#
